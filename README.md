@@ -1,41 +1,52 @@
 # Hi, I'm Maysaa Alatrash 👋
 
-🚀 Junior Backend Developer (ASP.NET Core | Django | REST APIs)
+**Backend Developer** — Django · ASP.NET Core · REST APIs
+
+I build REST APIs and the systems behind them: authentication, data models, and layered architecture that stays readable as a project grows. Computer Science graduate, based in Lebanon, open to remote work.
+
+📫 maysaaalatrash1@gmail.com · [LinkedIn](https://www.linkedin.com/in/maysaa-alatrash-2a8378345)
 
 ---
 
-## 💻 About Me
+## 🛠 Tech
 
-I’m a Computer Science graduate focused on backend development.
-
-I build scalable web applications, RESTful APIs, and real-time systems using ASP.NET Core and Django. I enjoy solving real-world problems through clean architecture, efficient backend design, and structured database systems.
-
----
-
-## 🔧 Tech Stack
-
-- **Languages:** C#, Python, Java, SQL
-- **Frameworks:** ASP.NET Core, Django, Flask
-- **Databases:** SQL Server, PostgreSQL, SQLite
-- **Tools:** Git, Postman, Linux
-- **Concepts:** REST APIs, Clean Architecture, Authentication, SignalR
+**Languages:** Python · C# · Java · SQL
+**Backend:** Django · Django REST Framework · ASP.NET Core · Entity Framework Core · Flask
+**Databases:** PostgreSQL · SQL Server · MySQL · SQLite
+**Auth & APIs:** JWT (SimpleJWT) · REST API design · SignalR · Swagger / OpenAPI
+**Tools:** Git · Postman · Linux
 
 ---
 
-## 🔥 Featured Projects
+## 📌 Projects
 
-### 🏥 MediMeal System
-Hospital meal management system with role-based access, meal planning, patient feedback, and real-time updates using SignalR.
+### [CareerTrackerAPI](https://github.com/Maysaaa1/CareerTrackerAPI)
+`Django REST Framework` · `PostgreSQL` · `JWT`
 
-### 🦷 Kallista Clinic
-Dental clinic management system built with Django and PostgreSQL, including appointment booking and secure authentication.
+A REST API for tracking job applications through the hiring process. JWT authentication with access and refresh tokens, PostgreSQL data model, full CRUD endpoints tested with Postman.
 
-### 👤 Profile
-Backend-focused projects, architecture, and development work.
+### [Task Management API](https://github.com/Maysaaa1/TaskManagementAPI)
+`ASP.NET Core 8` · `EF Core` · `SQL Server`
+
+A RESTful Web API built on the Repository Pattern and a Service Layer, keeping HTTP handling, business logic and data access in separate layers. Code First migrations, DTOs at the API boundary, documented with Swagger.
+
+### [MediMeal — Hospital Meal Tracking System](https://github.com/Maysaaa1/MediMealSystem)
+`ASP.NET Core` · `SignalR`
+
+Role-based hospital meal management separating patient, kitchen and staff permissions. RESTful APIs for patients, meal orders and feedback, with real-time order updates pushed over SignalR.
 
 ---
 
-## 📫 Contact
+## 💼 Experience
 
-- Email: maysaaalatrash1@gmail.com
-- GitHub: https://github.com/Maysaaa1
+**Full Stack Developer Intern** — Diraya Software · May–Aug 2025
+Built features for an Android TV Box application and integrated Firebase Realtime Database for live updates.
+
+**Computer & STEAM Instructor** — Al Rida School
+Taught programming fundamentals, HTML and Micro:bit robotics to grade 6–8 students across two academic years.
+
+---
+
+## 🎓 Education
+
+BSc in Computer Science, 2025 — University of Science and Arts in Lebanon (USAL)
