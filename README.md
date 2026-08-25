@@ -30,10 +30,10 @@ A REST API for tracking job applications through the hiring process. JWT authent
 
 A RESTful Web API built on the Repository Pattern and a Service Layer, keeping HTTP handling, business logic and data access in separate layers. Code First migrations, DTOs at the API boundary, documented with Swagger.
 
-### [MediMeal — Hospital Meal Tracking System](https://github.com/Maysaaa1/MediMealSystem)
+### MediMeal — Hospital Meal Tracking System *(private repository)*
 `ASP.NET Core` · `SignalR`
 
-Role-based hospital meal management separating patient, kitchen and staff permissions. RESTful APIs for patients, meal orders and feedback, with real-time order updates pushed over SignalR.
+Role-based hospital meal management separating patient, kitchen and staff permissions. RESTful APIs for patients, meal orders and feedback, with real-time order updates pushed over SignalR. Source is private — walkthrough available on request.
 
 ---
 
